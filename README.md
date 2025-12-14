@@ -1,1 +1,1 @@
-# binomial-_distribution
+# binomial_distribution
